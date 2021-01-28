@@ -1,4 +1,4 @@
-# README
+# tweet_app
 
 Ruby on railsで作成したTwitterのような投稿アプリ
 
